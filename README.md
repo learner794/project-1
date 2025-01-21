@@ -1,2 +1,2 @@
 # project-1
-Good learning stuff reside here
+Good learning stuff resides here
